@@ -11,6 +11,6 @@ public class Exercise0105 {
 
 		System.out.println("あなたの年齢を入力してください．");
 
-		System.out.prntln("ようこそ○歳の○○さん");
+		System.out.println("ようこそ○歳の○○さん");
 	}
 }
