@@ -1,0 +1,2 @@
+Hello FileReader!
+This is a sample text.
