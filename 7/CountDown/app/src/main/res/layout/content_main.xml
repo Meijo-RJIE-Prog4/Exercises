@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="jp.ac.meijo_u.id160441xxx.countdown.MainActivity"
+    tools:context="jp.ac.meijo_u.id170441xxx.countdown.MainActivity"
     tools:showIn="@layout/activity_main">
 
     <EditText
