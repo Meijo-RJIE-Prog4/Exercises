@@ -6,7 +6,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<VBox alignment="TOP_CENTER" prefWidth="260.0" spacing="10.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jp.ac.meijo_u.prog4.countdown.CountDownController">
+<VBox alignment="TOP_CENTER" prefWidth="260.0" spacing="10.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jp.ac.meijo_u.prog4.countdown.CountDownController">
    <children>
       <TextField fx:id="textCount" />
       <HBox alignment="TOP_CENTER" spacing="10.0">
